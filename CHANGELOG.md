@@ -1,5 +1,20 @@
 # Changelog
 
+### [2.1.3](https://www.github.com/googleapis/java-speech/compare/v2.1.2...v2.1.3) (2021-11-15)
+
+
+### Bug Fixes
+
+* **java:** java 17 dependency arguments ([#1266](https://www.github.com/googleapis/java-speech/issues/1266)) ([#717](https://www.github.com/googleapis/java-speech/issues/717)) ([6bb6966](https://www.github.com/googleapis/java-speech/commit/6bb6966d99805d5af9ff995826518582d9299b90))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.5.0 ([#731](https://www.github.com/googleapis/java-speech/issues/731)) ([6155461](https://www.github.com/googleapis/java-speech/commit/61554618b3e53d0174d403845c9aa574a153f300))
+* update dependency com.google.cloud:google-cloud-storage to v2.2.0 ([#721](https://www.github.com/googleapis/java-speech/issues/721)) ([dcb87ba](https://www.github.com/googleapis/java-speech/commit/dcb87bad789d720364e81bddab381a18fe2d7d5d))
+* update dependency com.google.errorprone:error_prone_annotations to v2.10.0 ([#723](https://www.github.com/googleapis/java-speech/issues/723)) ([2fa8ca9](https://www.github.com/googleapis/java-speech/commit/2fa8ca9c0a7c0489b2d3a271d5b9c2547e837434))
+* update dependency commons-cli:commons-cli to v1.5.0 ([#720](https://www.github.com/googleapis/java-speech/issues/720)) ([1360551](https://www.github.com/googleapis/java-speech/commit/13605512fc249e4049c1965a099f71ca68c22b2d))
+
 ### [2.1.2](https://www.github.com/googleapis/java-speech/compare/v2.1.1...v2.1.2) (2021-10-19)
 
 
